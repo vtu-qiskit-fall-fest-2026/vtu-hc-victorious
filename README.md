@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Victorious** · Team ID `VTU-QFF-HC-0123` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Victorious)
+[⬆ Back to Top](#victorious)
 
 </div>
